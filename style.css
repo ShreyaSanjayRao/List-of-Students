@@ -1,0 +1,27 @@
+input{
+    margin:10px;
+}
+#submit_button{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+#sort_button{
+    display:none;
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+#display_name{
+    border: 1px solid mediumvioletred;
+    padding:10px;
+    background-color: pink;
+    border-radius: 10px;
+    widows: 50%;
+}
+#display_name_without_comma{
+    border: 1px solid blueviolet;
+    padding:10px;
+    background-color: magenta;
+    border-radius: 10px;
+    widows: 50%;
+}
